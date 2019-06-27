@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT parco_5264.wsgi:application
